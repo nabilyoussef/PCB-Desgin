@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Arduino Rev 3</h1>
+<h1 align="center">Arduino Rev 3</h1>
 <img src="Screenshot TOP.jpg" width="70%" height="70%" style="display: block; margin: 0 auto;">
 
 ## Table of Contents
@@ -7,28 +7,26 @@
 - [BOM (Bill of Materials)](#bom-bill-of-materials)
 
 ## Schematic
-<div style="text-align: center;">
-    <img src="TOP_LEVEL_page-0008.jpg" width="70%" height="70%" style="display: inline-block;">
-</div>
-<img src="TOP_LEVEL_page-0003.jpg" width="70%" height="70%" style="margin:0 15%;">
-<img src="TOP_LEVEL_page-0004.jpg" width="70%" height="70%" style="margin:0 15%;">
-<img src="TOP_LEVEL_page-0005.jpg" width="70%" height="70%" style="margin:0 15%;">
-<img src="TOP_LEVEL_page-0006.jpg" width="70%" height="70%" style="margin:0 15%;">
-<img src="TOP_LEVEL_page-0007.jpg" width="70%" height="70%" style="margin:0 15%;">
-<img src="TOP_LEVEL_page-0008.jpg" width="70%" height="70%" style="margin:0 15%;">
+
+<img src="TOP_LEVEL_page-0003.jpg" width="70%" height="70%" align="center">
+<img src="TOP_LEVEL_page-0004.jpg" width="70%" height="70%" align="center">
+<img src="TOP_LEVEL_page-0005.jpg" width="70%" height="70%" align="center">
+<img src="TOP_LEVEL_page-0006.jpg" width="70%" height="70%" align="center">
+<img src="TOP_LEVEL_page-0007.jpg" width="70%" height="70%" align="center">
+<img src="TOP_LEVEL_page-0008.jpg" width="70%" height="70%" align="center">
 
 ## PCB Layout
 
-<img src="FULL.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="FULL.jpg" width="70%" height="70%" align="center">
 
 ## Gerber Files Review
-<img src="TOP +5.jpg" width="70%" height="70%" style="margin:0 15%;">
-<img src="TOP PADs.jpg" width="70%" height="70%" style="margin:0 15%;">
-<img src="SMD.jpg" width="70%" height="70%" style="margin:0 15%;">
-<img src="BTM.jpg" width="70%" height="70%" style="margin:0 15%;">
-<img src="Drills.jpg" width="70%" height="70%" style="margin:0 15%;">
-<img src="GND 1.jpg" width="70%" height="70%" style="margin:0 15%;">
-<img src="GND 2.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="TOP +5.jpg" width="70%" height="70%" align="center">
+<img src="TOP PADs.jpg" width="70%" height="70%" align="center">
+<img src="SMD.jpg" width="70%" height="70%" align="center">
+<img src="BTM.jpg" width="70%" height="70%" align="center">
+<img src="Drills.jpg" width="70%" height="70%" align="center">
+<img src="GND 1.jpg" width="70%" height="70%" align="center">
+<img src="GND 2.jpg" width="70%" height="70%" align="center">
 
 
 ## BOM (Bill of Materials)
