@@ -19,7 +19,7 @@ I am a passionate PCB designer with a strong background in electronics engineeri
 
 Here are some of the projects included in this repository:
 
-- Project 1: [Arduino Rev 3](arduino-rev-3/readme.md)
+- Project 1: [Arduino Rev 3](arduinorev3/README.md)
 - Project 2: [Boost Converter LM5176]
 - Project 3: [STM 32 SOON !]
 
