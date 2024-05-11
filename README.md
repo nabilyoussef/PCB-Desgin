@@ -1,16 +1,16 @@
 # PCB Projects Repository
 
 Welcome to the PCB Projects Repository! This repository contains a collection of my PCB projects.
+## About Me
 
-## Table of Contents
+I am a passionate PCB designer with a strong background in electronics engineering. I love creating innovative solutions and pushing the boundaries of technology. With years of experience in PCB design, I have developed expertise in various aspects of the field.
 
-- [Introduction](#introduction)
-- [Projects](#projects)
+## Social Links
 
+Connect with me on social media to stay updated with my latest projects and developments:
 
-## Introduction
-
-In this repository, you will find various PCB projects that I have worked on. Each project is designed to solve a specific problem or demonstrate a particular concept.
+- [LinkedIn](https://www.linkedin.com/in/nabil-youssef-557884219/)
+- [GitHub](https://github.com/nabilyoussef)
 
 ## Projects
 
