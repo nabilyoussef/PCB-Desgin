@@ -7,6 +7,7 @@
 ## Table of Contents
 - [Schematic](#schematic)
 - [PCB Layout](#pcb-layout)
+- [Gerber Files Review](#gerber-files-review)
 - [BOM (Bill of Materials)](#bom-bill-of-materials)
 
 ## Schematic
