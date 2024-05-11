@@ -1,13 +1,33 @@
-# Arduino Rev 3
+<h1 style="text-align: center;">Arduino Rev 3</h1>
+<img src="Screenshot TOP.jpg" width="70%" height="70%" style="margin:0 15%;">
+
 ## Table of Contents
 - [Schematic](#schematic)
 - [PCB Layout](#pcb-layout)
 - [BOM (Bill of Materials)](#bom-bill-of-materials)
 
 ## Schematic
-
+<img src="TOP_LEVEL_page-0003.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="TOP_LEVEL_page-0004.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="TOP_LEVEL_page-0005.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="TOP_LEVEL_page-0006.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="TOP_LEVEL_page-0007.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="TOP_LEVEL_page-0008.jpg" width="70%" height="70%" style="margin:0 15%;">
 
 ## PCB Layout
+
+<img src="FULL.jpg" width="70%" height="70%" style="margin:0 15%;">
+
+## Gerber Files Review
+<img src="TOP +5.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="TOP PADs.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="SMD.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="BTM.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="Drills.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="GND 1.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="GND 2.jpg" width="70%" height="70%" style="margin:0 15%;">
+
+
 ## BOM (Bill of Materials)
 
 | P/N               | Description                                                                                          | Designator       | Quantity |
@@ -45,5 +65,3 @@
 | ERJ-3EKF1004V     | 1 MOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film             | R1, R4           | 2        |
 | RC0603FR-071KL    | 1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film              | R2, R3, R5, R6, R7, R13, R14, R16, R17 | 9        |
 | ERJ-6GEY0R00V     | Resistor Thick Film 0805 0 Ohm 1-8w Surface Mount Embossed Carrier Tape and Reel                     | SB1, SB2         | 2        |
-
-
