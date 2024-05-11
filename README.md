@@ -16,7 +16,7 @@ Connect with me on social media to stay updated with my latest projects and deve
 
 Here are some of the projects included in this repository:
 
-- Project 1: [Arduino Rev 3](Arduino Rev 3/Arduino Rev3.md)
+- Project 1: [Arduino Rev 3](Arduino Rev 3/Arduino Rev 3.md)
 - Project 2: [Boost Converter LM5176]
 - Project 3: [STM 32 SOON !]
 
