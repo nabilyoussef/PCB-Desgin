@@ -7,6 +7,9 @@
 - [BOM (Bill of Materials)](#bom-bill-of-materials)
 
 ## Schematic
+<div style="text-align: center;">
+    <img src="TOP_LEVEL_page-0008.jpg" width="70%" height="70%" style="display: inline-block;">
+</div>
 <img src="TOP_LEVEL_page-0003.jpg" width="70%" height="70%" style="margin:0 15%;">
 <img src="TOP_LEVEL_page-0004.jpg" width="70%" height="70%" style="margin:0 15%;">
 <img src="TOP_LEVEL_page-0005.jpg" width="70%" height="70%" style="margin:0 15%;">
