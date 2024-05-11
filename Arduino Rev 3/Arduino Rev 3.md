@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Arduino Rev 3</h1>
-<img src="Screenshot TOP.jpg" width="70%" height="70%" style="margin:0 15%;">
+<img src="Screenshot TOP.jpg" width="70%" height="70%" style="display: block; margin: 0 auto;">
 
 ## Table of Contents
 - [Schematic](#schematic)
