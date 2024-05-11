@@ -6,9 +6,7 @@ Welcome to the PCB Projects Repository! This repository contains a collection of
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -18,8 +16,8 @@ In this repository, you will find various PCB projects that I have worked on. Ea
 
 Here are some of the projects included in this repository:
 
-- Project 1: [Brief description of project 1]
-- Project 2: [Brief description of project 2]
-- Project 3: [Brief description of project 3]
+- Project 1: [Arduino Rev 3]
+- Project 2: [Boost Converter LM5176]
+- Project 3: [STM 32 SOON !]
 
 Feel free to explore the projects and check out their respective documentation for more details.
