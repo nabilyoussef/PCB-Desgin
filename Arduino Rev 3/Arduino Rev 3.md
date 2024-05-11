@@ -1,5 +1,8 @@
 <h1 align="center">Arduino Rev 3</h1>
-<img src="Screenshot TOP.jpg" width="70%" height="70%" style="display: block; margin: 0 auto;">
+<p align="center">
+<img src="Screenshot TOP.jpg" width="70%" height="70%">
+</p>
+
 
 ## Table of Contents
 - [Schematic](#schematic)
@@ -7,26 +10,33 @@
 - [BOM (Bill of Materials)](#bom-bill-of-materials)
 
 ## Schematic
+<p align="center">
+<img src="TOP_LEVEL_page-0003.jpg" width="70%" height="70%">
+<img src="TOP_LEVEL_page-0004.jpg" width="70%" height="70%">
+<img src="TOP_LEVEL_page-0005.jpg" width="70%" height="70%">
+<img src="TOP_LEVEL_page-0006.jpg" width="70%" height="70%">
+<img src="TOP_LEVEL_page-0007.jpg" width="70%" height="70%">
+<img src="TOP_LEVEL_page-0008.jpg" width="70%" height="70%">
+</p>
 
-<img src="TOP_LEVEL_page-0003.jpg" width="70%" height="70%" align="center">
-<img src="TOP_LEVEL_page-0004.jpg" width="70%" height="70%" align="center">
-<img src="TOP_LEVEL_page-0005.jpg" width="70%" height="70%" align="center">
-<img src="TOP_LEVEL_page-0006.jpg" width="70%" height="70%" align="center">
-<img src="TOP_LEVEL_page-0007.jpg" width="70%" height="70%" align="center">
-<img src="TOP_LEVEL_page-0008.jpg" width="70%" height="70%" align="center">
 
 ## PCB Layout
 
-<img src="FULL.jpg" width="70%" height="70%" align="center">
+<p align="center">
+<img src="FULL.jpg" width="70%" height="70%">
+</p>
 
 ## Gerber Files Review
-<img src="TOP +5.jpg" width="70%" height="70%" align="center">
-<img src="TOP PADs.jpg" width="70%" height="70%" align="center">
-<img src="SMD.jpg" width="70%" height="70%" align="center">
-<img src="BTM.jpg" width="70%" height="70%" align="center">
-<img src="Drills.jpg" width="70%" height="70%" align="center">
-<img src="GND 1.jpg" width="70%" height="70%" align="center">
-<img src="GND 2.jpg" width="70%" height="70%" align="center">
+
+<p align="center">
+<img src="TOP +5.jpg" width="70%" height="70%">
+<img src="TOP PADs.jpg" width="70%" height="70%">
+<img src="SMD.jpg" width="70%" height="70%">
+<img src="BTM.jpg" width="70%" height="70%">
+<img src="Drills.jpg" width="70%" height="70%">
+<img src="GND 1.jpg" width="70%" height="70%">
+<img src="GND 2.jpg" width="70%" height="70%">
+</p>
 
 
 ## BOM (Bill of Materials)
