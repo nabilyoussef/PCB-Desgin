@@ -8,7 +8,7 @@ This repository contains a collection of my PCB projects
 
 I am a passionate PCB designer with a strong background in electronics engineering. I love creating innovative solutions and pushing the boundaries of technology. With years of experience in PCB design, I have developed expertise in various aspects of the field.
 
-## Skills
+## Social Links
 
 
 
