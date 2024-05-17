@@ -19,31 +19,18 @@ I am a passionate PCB designer with a strong background in electronics engineeri
 
 Here are some of the projects included in this repository:
 
-- Project 1: 
+- Project 1: [Arduino Rev 3](arduinorev3/README.md)
 - Project 2: [Boost Converter LM5176]
 - Project 3: [STM 32 SOON !]
 
-<table>
-    <tr>
-        <th>Project Name</th>
-        <th>Status</th>
-    </tr>
-    <tr>
-        <td>[Arduino Rev 3](arduinorev3/README.md)</td>
-        <td> Completed </td>
-        </tr>
-        <tr>
-        <td>Smart pet coller</td>
-        <td>Not Started</td>
-    </tr>
-    <tr>
-        <td> STM 32 + RF + USB</td>
-        <td>Not Started</td>
-          </tr>
-        <tr>
-        <td>UCB C PD</td>
-        <td> Completed</td>
-    </tr>
-</table>
+
+
+
+| Project Name              | Status      |
+|---------------------------|-------------|
+| [Arduino Rev 3](arduinorev3/README.md) | Completed   |
+| Smart pet coller          | Not Started |
+| STM 32 + RF + USB         | Not Started |
+| UCB C PD                  | Completed   |
 
 Feel free to explore the projects and check out their respective documentation for more details.
